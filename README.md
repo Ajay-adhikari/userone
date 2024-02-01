@@ -1,3 +1,4 @@
+
 # Login and registration with MERN stack
 
 ![Final App](client/public/mern-auth.gif)
